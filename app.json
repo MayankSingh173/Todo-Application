@@ -17,10 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.mayank.todo",
+      "buildNumber": "1.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.mayanksingh.todo",
+      "versionCode": 1
     }
   }
 }
